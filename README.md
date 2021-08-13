@@ -1,7 +1,7 @@
 ## Oi! Sou a Bia Castro 💁
 
 - 🌱 Estou cursando o bootcamp da Generation Brasil
-- 💬 Serei uma Desenvolvedora Full Stack Júnior 
+- 💬 Serei uma Desenvolvedora JAVA Full Stack Júnior 
 - 😄 Meus pronomes são: Ela/Dela
 
  <div>
