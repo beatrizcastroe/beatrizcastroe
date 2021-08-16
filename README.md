@@ -1,4 +1,4 @@
-## Oi! Sou a Bia Castro 💁
+## Oi! Bem vindx ao meu GitHub! 😜
 
 - 🌱 Estou cursando o bootcamp da Generation Brasil
 - 💬 Serei uma Desenvolvedora JAVA Full Stack Júnior 
