@@ -1,7 +1,8 @@
 ## Bem vindos ao meu GitHub!
 
-- 🌱 Estou cursando o bootcamp da Generation Brasil
-- 💬 Serei uma Desenvolvedora JAVA Full Stack Júnior 
+- 📢 Sou Analista de Desenvolvimento de Sistemas Júnior na KaBuM!
+- 💬 Sou uma Desenvolvedora Java formada pela Generation Brasil
+- 💻 Atualmente trabalhando com Pearl, PHP e banco de dados SQL. 
 - 😄 Meus pronomes são: Ela/Dela
 
  <div>
