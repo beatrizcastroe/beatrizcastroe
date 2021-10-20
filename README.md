@@ -1,7 +1,7 @@
 ## Bem vindos ao meu GitHub!
 
 - 📢 Sou Analista de Desenvolvimento de Sistemas Júnior na KaBuM!
-- 💬 Sou uma Desenvolvedora Java formada pela Generation Brasil
+- 💬 Desenvolvedora Java Fullstack formada pela Generation Brasil
 - 💻 Atualmente trabalhando com Pearl, PHP e banco de dados SQL. 
 - 😄 Meus pronomes são: Ela/Dela
 
