@@ -1,5 +1,17 @@
 ## Bem vindos ao meu GitHub!
 
+```
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+      }
+      let beatrizCastro = new dev('Beatriz Castro', 22, 'Developer fullstack at KaBuM!');
+      console.log(beatrizCastro);
+```
+
+### Sobre:
+
 - 📢 Sou Analista de Desenvolvimento de Sistemas Júnior na KaBuM!
 - 💬 Desenvolvedora Java Fullstack formada pela Generation Brasil
 - 💻 Atualmente trabalhando com Pearl, PHP e banco de dados SQL. 
