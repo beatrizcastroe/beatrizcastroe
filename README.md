@@ -11,6 +11,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcastroe&layout=compact&langs_count=7&theme=calm"/>
 </div>
 
+ 
+ ### Principais Skills:
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
+
   ##
  
 <div> 
