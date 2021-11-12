@@ -16,7 +16,8 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
  
- ###Ferramentas:
+ ### Ferramentas:
+ 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
