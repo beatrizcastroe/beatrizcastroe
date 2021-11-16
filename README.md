@@ -14,7 +14,7 @@ function dev(name, age, work) {
 
 - 📢 Sou Analista de Desenvolvimento de Sistemas Júnior na KaBuM!
 - 💬 Desenvolvedora Java Fullstack formada pela Generation Brasil
-- 💻 Atualmente trabalhando com Pearl, PHP e banco de dados SQL. 
+- 💻 Atualmente trabalhando com Perl, JavaScript e banco de dados SQL. 
 - 😄 Meus pronomes são: Ela/Dela
 
  ### Skills:
