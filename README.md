@@ -12,7 +12,7 @@ function dev(name, age, work) {
 
 ### Sobre:
 
-- 📢 Sou Analista de Desenvolvimento de Sistemas Júnior na KaBuM!
+- 📢 Sou Analista de Desenvolvimento de Sistemas Júnior no KaBuM!
 - 💬 Desenvolvedora Java Fullstack formada pela Generation Brasil
 - 💻 Atualmente trabalhando com Perl, JavaScript e banco de dados SQL. 
 - 😄 Meus pronomes são: Ela/Dela
