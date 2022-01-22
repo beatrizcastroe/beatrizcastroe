@@ -6,15 +6,15 @@ function dev(name, age, work) {
         this.age = age;
         this.work = work;
       }
-      let beatrizCastro = new dev('Beatriz Castro', 22, 'Developer fullstack at KaBuM!');
+      let beatrizCastro = new dev('Beatriz Castro', 22, 'Developer backend at Sensedia!');
       console.log(beatrizCastro);
 ```
 
 ### Sobre:
 
-- 📢 Sou Analista de Desenvolvimento de Sistemas Júnior no KaBuM!
+- 📢 Desenvolvedora Backend Jr na Sensedia
 - 💬 Desenvolvedora Java Fullstack formada pela Generation Brasil
-- 💻 Atualmente trabalhando com Perl, JavaScript e banco de dados SQL. 
+- 💻 Atualmente trabalhando com Nest.JS e microserviços 
 - 😄 Meus pronomes são: Ela/Dela
 
  ### Skills:
